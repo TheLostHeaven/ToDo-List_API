@@ -1,4 +1,3 @@
-
 # CRUD ToDo-List - Express
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png)
@@ -13,6 +12,7 @@ Este proyecto es un ejemplo de una API RESTful desarrollada con Express-Js que p
 ## Funcionalidades
 
 - Obtener todos los datos de la DB En la pagina de inicio
+- Obtener los Datos por Id en la DB
 - Crear mas tareas en la DB 
 - Eliminar Tareas ya realizadas en la BD
 - Actualizar los datos de la DB
@@ -21,17 +21,18 @@ Este proyecto es un ejemplo de una API RESTful desarrollada con Express-Js que p
 - NodeJs
 - Express-Js
 - MongoDB
+- Cors
 
 ## Instalacion
 
 1 Clona el repositorio en tu maquina local
 ```bash
-$ git clone https://github.com/TheLostHeaven/ToDo-Js.git
+$ git clone https://github.com/TheLostHeaven/ToDo-List_API.git
 ```
 
 2 Navega en el directorio del proyecto 
 ```bash
-$ cd ToDo-Js
+$ cd ToDo-List_API
 ```
 
 3 Puedes cambiar el origen del proyecto con los siguientes comand
@@ -70,4 +71,4 @@ Si tienes alguna pregunta o sugerencia o quieres la documentacion para desarroll
 ## Autors
 
 - [@Daniel Molina](https://github.com/TheLostHeaven)
-# ToDo-List_API
+
